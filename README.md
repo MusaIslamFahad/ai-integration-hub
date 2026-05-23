@@ -1,4 +1,8 @@
+<div align='center'> 
+
 # 🤖 AI Integration Hub
+
+![AI Integration Hub Banner](https://raw.githubusercontent.com/MusaIslamFahad/ai-integration-hub/main/public/images/banner.png)
 
 > **The Ultimate Resource for AI Engineers** - A curated collection of AI APIs, code templates, model comparisons, and engineering roadmaps to accelerate your AI development workflow.
 
@@ -6,6 +10,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MusaIslamFahad/ai-integration-hub/stargazers)
 [![License](https://img.shields.io/github/license/MusaIslamFahad/ai-integration-hub?style=for-the-badge&color=blue)](https://github.com/MusaIslamFahad/ai-integration-hub/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/MusaIslamFahad/ai-integration-hub/pulls)
+
+</div>
 
 ---
 
