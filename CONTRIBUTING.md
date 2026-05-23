@@ -4,11 +4,11 @@ Thanks for helping make this the most accurate AI API reference for engineers. H
 
 ## What we need most
 
-- **Broken link fixes** — API docs and pricing pages move often
-- **New providers** — if a provider has a public API and developer docs, it belongs here
-- **Model updates** — new releases, deprecated models, pricing changes
-- **Code templates** — new frameworks, languages, or patterns
-- **Roadmap content** — additional topics or improved learning paths
+- **Broken link fixes** - API docs and pricing pages move often
+- **New providers** - if a provider has a public API and developer docs, it belongs here
+- **Model updates** - new releases, deprecated models, pricing changes
+- **Code templates** - new frameworks, languages, or patterns
+- **Roadmap content** - additional topics or improved learning paths
 
 ## How to contribute
 
@@ -26,11 +26,11 @@ Thanks for helping make this the most accurate AI API reference for engineers. H
 
 ## Standards
 
-- **Links must work** — verify every URL before submitting
-- **Pricing must link to source** — link to the official pricing page, not a third-party summary
-- **Code must run** — test templates before adding them
-- **No duplicates** — check if the provider already exists before adding
-- **Keep descriptions concise** — one clear sentence per item is better than a paragraph
+- **Links must work** - verify every URL before submitting
+- **Pricing must link to source** - link to the official pricing page, not a third-party summary
+- **Code must run** - test templates before adding them
+- **No duplicates** - check if the provider already exists before adding
+- **Keep descriptions concise** - one clear sentence per item is better than a paragraph
 
 ## File map
 
@@ -45,4 +45,4 @@ CHANGELOG.md         → Version history
 
 ## Questions?
 
-Open a [Discussion](https://github.com/MusaIslamFahad/ai-integration-hub/discussions) — no question is too small.
+Open a [Discussion](https://github.com/MusaIslamFahad/ai-integration-hub/discussions) - no question is too small.
