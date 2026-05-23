@@ -2,7 +2,7 @@
 
 > **The Ultimate Resource for AI Engineers** - A curated collection of AI APIs, code templates, model comparisons, and engineering roadmaps to accelerate your AI development workflow.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-violet?style=for-the-badge)](https://aiintegrationhub.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-violet?style=for-the-badge)](https://ai-integration-hub-v1.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MusaIslamFahad/ai-integration-hub/stargazers)
 [![License](https://img.shields.io/github/license/MusaIslamFahad/ai-integration-hub?style=for-the-badge&color=blue)](https://github.com/MusaIslamFahad/ai-integration-hub/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/MusaIslamFahad/ai-integration-hub/pulls)
@@ -13,9 +13,9 @@
 
 New here? Three ways to use this repo:
 
-1. **Read the README** — browse the API directory, model table, and code templates right here on GitHub
-2. **Visit the live site** — [aiintegrationhub.vercel.app](https://aiintegrationhub.vercel.app) for an interactive, filterable experience
-3. **Grab a template** — copy a code snippet from the [Templates section](#-ready-to-use-code-templates) and drop it into your project
+1. **Read the README** - browse the API directory, model table, and code templates right here on GitHub
+2. **Visit the live site** - [ai-integration-hub-v1.vercel.app](https://ai-integration-hub-v1.vercel.app/) for an interactive, filterable experience
+3. **Grab a template** - copy a code snippet from the [Templates section](#-ready-to-use-code-templates) and drop it into your project
 
 > No installation needed. No sign-up. Just open and use.
 
@@ -383,8 +383,8 @@ Quick decision guide for common use cases.
         ┌─────────────────────┼─────────────────────┐
         ▼                     ▼                     ▼
    ┌─────────┐          ┌──────────┐          ┌──────────┐
-   │Chatbot/ │          │Fast &    │          │Cost-     │
-   │Assistant│          │Low Latency│          │Effective │
+   │Chatbot/ │          │Fast & Low│          │Cost-     │
+   │Assistant│          │Latency   │          │Effective │
    └────┬────┘          └────┬─────┘          └────┬─────┘
         │                    │                     │
         ▼                    ▼                     ▼
@@ -838,8 +838,8 @@ Understanding rate limits and costs before you build prevents nasty surprises at
 | **Google AI** | 15 | 1M | 1,000+ |
 | **Groq** | 30 | 14.4K | 100–6,000 |
 | **Mistral** | 1 | 500K | 500+ |
-| **Cohere** | 5 | — | 10,000+ |
-| **Together AI** | 60 | — | Varies |
+| **Cohere** | 5 | - | 10,000+ |
+| **Together AI** | 60 | - | Varies |
 
 > RPM = Requests Per Minute · TPM = Tokens Per Minute · Tiers vary by model and plan — always verify on provider dashboards.
 
