@@ -1,17 +1,36 @@
-<div align='center'> 
+<div align="center">
 
-# 🤖 AI Integration Hub
+# AI Integration Hub
 
-![AI Integration Hub Banner](https://raw.githubusercontent.com/MusaIslamFahad/ai-integration-hub/main/public/images/banner.png)
+**Built for **AI Engineers** - a curated hub of AI APIs, code templates, model comparisons and engineering roadmaps designed to accelerate development and streamline AI integration.**
 
-> **The Ultimate Resource for AI Engineers** - A curated collection of AI APIs, code templates, model comparisons, and engineering roadmaps to accelerate your AI development workflow.
+*The ultimate one-stop resource for developers building with AI.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-violet?style=for-the-badge)](https://ai-integration-hub-v1.vercel.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MusaIslamFahad/ai-integration-hub/stargazers)
-[![License](https://img.shields.io/github/license/MusaIslamFahad/ai-integration-hub?style=for-the-badge&color=blue)](https://github.com/MusaIslamFahad/ai-integration-hub/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/MusaIslamFahad/ai-integration-hub/pulls)
+[![Website](https://img.shields.io/badge/Website-Live-success)](https://ai-integration-hub-v1.vercel.app/)
+[![Stars](https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=social)](https://github.com/MusaIslamFahad/ai-integration-hub)
+[![License](https://img.shields.io/github/license/MusaIslamFahad/ai-integration-hub)](https://github.com/MusaIslamFahad/ai-integration-hub/blob/main/LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/MusaIslamFahad/ai-integration-hub)](https://github.com/MusaIslamFahad/ai-integration-hub)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success)](https://github.com/MusaIslamFahad/ai-integration-hub/pulls)
+
+![AI Integration Hub Banner](https://raw.githubusercontent.com/MusaIslamFahad/ai-integration-hub/main/public/images/banner.png) <!-- Replace with your actual banner -->
+
+**Everything you need to go from idea → production with LLMs in one place.**
 
 </div>
+
+## ✨ Why AI Integration Hub?
+
+Building AI-powered applications is powerful but **overwhelming**. 
+
+Scattered documentation, constantly changing APIs, confusing pricing, and lack of practical templates slow you down.
+
+**AI Integration Hub** solves this by giving you:
+
+- Curated API directory with latest keys & pricing
+- Up-to-date model comparison table
+- Production-ready code templates
+- Learning roadmaps for RAG, Agents, Fine-tuning & more
+- Best practices for security, prompting & cost control
 
 ---
 
