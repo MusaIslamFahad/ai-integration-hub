@@ -390,6 +390,7 @@ Compare top AI models across key dimensions.
 | **Grok-3** | xAI | 131K | ✅ | $3.00 | $15.00 | ❌ |
 | **Llama 3.3 70B (Groq)** | Groq | 128K | ❌ | ~$0.59 | ~$0.79 | ✅ |
 
+→ [Full Comparison Table](./docs/MODEL_COMPARISON.md)
 > 💡 **Note:** Pricing is approximate and may vary. Always verify current rates before committing. Self-hosted models require infrastructure costs.
 
 ---
@@ -402,7 +403,7 @@ Quick decision guide for common use cases.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    START: Choose Your Use Case               │
+│                    START: Choose Your Use Case              │
 └─────────────────────────────────────────────────────────────┘
                               │
         ┌─────────────────────┼─────────────────────┐
